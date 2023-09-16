@@ -1,0 +1,154 @@
+.container {
+    max-width: 1000px;
+    justify-content: center;
+    background-color: #1C233D;
+    height: 630px;
+
+}
+
+.header-navbar {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.header-navbar-line {
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+}
+
+.header-navbar-input {
+    border: 0.1px solid #white;
+    border-radius: 10px;
+}
+
+.header-navbar-button {
+    text-decoration: none;
+    background: linear-gradient(85.76deg, rgba(191, 196, 238, 0.0945738) -105.02%, #C367E6 10.94%, rgba(190, 206, 239, 0) 121.57%);
+    border-radius: 10px;
+}
+
+.header-navbar-text {
+    text-decoration: none;
+    color: white;
+}
+
+.text {
+    color: white;
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+}
+
+.text-1 {
+    width: 400px;
+    height: 190px;
+    top: 138px;
+    left: 62px;
+    font-family: Space Grotesk;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 77px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: ;
+    box-sizing: border-box;
+
+}
+
+.text-2 {
+    Font: Poppins;
+    Weight: 500;
+    Size: 12px;
+    Line-height: 19.5px;
+    padding-top: -30px;
+    width: 250px;
+    font-size: 13px;
+    box-sizing: border-box;
+
+}
+
+.text-3 {
+    width: 199px;
+    height: 40px;
+    top: 433px;
+    left: 60px;
+    padding: 10px, 48px, 10px, 47px;
+    border-radius: 5px;
+    background: linear-gradient(85.76deg, rgba(191, 196, 238, 0.0945738) -105.02%, #C367E6 10.94%, rgba(190, 206, 239, 0) 121.57%);
+
+
+}
+
+.text-4 {
+    display: flex;
+
+}
+
+.text-3-button {
+    text-decoration: none;
+    color: white;
+}
+
+.text-list {
+    list-style: none;
+    font-family: Space Grotesk;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.text-up {
+    Font: Space Grotesk;
+    Weight: 700;
+    Size: 36px;
+    Line-height: 45.94px;
+    padding-left: 0px;
+    font-size: 18px;
+}
+
+.text-down {
+    font-family: Space Grotesk;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+svg {
+    width: 404px;
+    height: 450px;
+}
+
+
+.k {
+    margin-right: 30px;
+}
+
+.footer {
+    display: flex;
+    justify-content: end;
+}
+
+.footer-list {
+    list-style: none;
+    justify-content: flex-end;
+    align-items: end;
+    color: white;
+    Width: 135.71px;
+    Height: 50px;
+    Top: 743px;
+    Left: 457px;
+    font-size: 25px;
+}
+
+background: linear-gradient(85.76deg, rgba(191, 196, 238, 0.0945738) -105.02%, #C367E6 10.94%, rgba(190, 206, 239, 0) 121.57%)
